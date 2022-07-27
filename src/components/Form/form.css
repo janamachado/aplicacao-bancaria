@@ -1,0 +1,83 @@
+
+.AllForm {
+    box-shadow: 0px 4px 32px -12px rgba(0, 0, 0, 0.25);
+    border-radius: 0.25rem;
+    width: 22.6rem;
+    height: 21.9rem;
+    border: 0rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 0.62rem;
+    margin: 2rem 2rem;
+}
+
+form label{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color:#212529;
+    font-size: 0.88rem;
+    padding: 0rem 0.93rem;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+}
+
+form div {
+    display: flex;
+    justify-content: space-between;
+    padding: 0rem;
+    display: flex;
+    justify-content: center;
+}
+
+form input {
+    height: 3.4rem;
+    background-color:#F8F9FA ;
+    border: 0ch;
+    border-radius: 0.5rem;
+    width: 20rem;
+    color:#868E96;
+    margin: 0.62rem 0rem;
+    font-family: 'Inter', sans-serif;
+    padding-left: 1rem;
+}
+
+form div input {
+    height: 3rem;
+    width: 8rem;
+}
+
+form div select{
+    width: 9.37rem;
+    height: 3rem;
+    background-color: #F8F9FA;
+    border: 0ch;
+    border-radius: 0.5rem;
+    color:#868E96;
+    margin: 0.62rem 0rem;
+    padding-left: 1rem;
+}
+
+form p{
+    color:#868E96;
+    margin-top: -8px;
+    font-size: 1rem;
+}
+
+form button {
+    border: 0ch;
+    border-radius: 0.5rem;
+    height: 3rem;
+    width: 19.6rem;
+    background-color: #FD377E;
+    color:#FFFFFF;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+form .button{
+    display: flex;
+    justify-content: center;
+}

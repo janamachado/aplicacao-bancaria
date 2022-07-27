@@ -1,0 +1,24 @@
+.div_totalMoney{
+    display: flex;
+    width: 22.6rem;
+    height: 4.25rem;
+    justify-content: space-between;
+    padding: 0.62rem;
+    margin: 2rem 2rem;
+    margin-top: 1.25rem;
+    align-items: center;
+    border-radius: 0.25rem;
+    border: 1px solid rgba(233, 236, 239, 1)
+}
+
+.div_totalMoney span{
+    color: #E34981 ;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.div_totalMoney p{
+    font-weight: 700;
+    font-size: 1rem;
+    
+}

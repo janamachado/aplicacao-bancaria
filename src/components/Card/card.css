@@ -1,0 +1,61 @@
+.container_card{
+    width: 32.5rem;
+    height: 5.43rem;
+    display: flex;
+    background-color: #F8F9FA;
+    margin-bottom: 2rem;
+    padding: 1rem 1rem;
+    justify-content: space-between;
+    border-radius: 0.31rem;
+}
+
+.btn_delete{
+    display: flex;
+    justify-content: center;
+    background-color: #E9ECEF;
+    width: 1.37rem;
+    height: 1.37rem;
+    border-radius: 0.18rem;
+    padding: 0.37rem;
+    border: none;
+    cursor: pointer;
+}
+
+.infos_a{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.infos_a p{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 1.87rem;
+    margin: 0rem 0rem;
+    color: #212529;
+}
+
+.infos_a span{
+    color:#868E96;
+    font-size: 0.75rem;
+    font-weight: 400;
+}
+
+.infos_b{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.infos_b p{
+    width: 6.35rem;
+    font-size: 0.93rem;
+    font-weight: 400;
+    height: 1.37rem;
+    display: flex;
+    align-items: center;
+}
