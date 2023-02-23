@@ -10,6 +10,7 @@ import List from './components/List';
 function App() {
   const [listTransactions, setListTransactions] = useState([])
   const [transactionsFilter, setTransactionsFilter] = useState([])
+  
   useEffect(()=>{
     setTransactionsFilter(listTransactions)
   }, [listTransactions])

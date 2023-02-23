@@ -1,5 +1,5 @@
 import Card from "../Card"
-import "./list.css"
+import "./styles.css"
 
 
 const List = ({

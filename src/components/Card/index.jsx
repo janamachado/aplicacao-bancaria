@@ -1,4 +1,4 @@
-import "./card.css"
+import "./styles.css"
 import trashImage from '../../img/trash.png'
 
 const Card = ({

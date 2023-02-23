@@ -1,4 +1,4 @@
-import './totalMoney.css'
+import './styles.css'
 
 const TotalMoney = ({listTransactions}) =>{
 

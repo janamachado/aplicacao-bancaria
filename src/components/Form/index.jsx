@@ -1,11 +1,11 @@
 import { useState } from "react"
-import "./form.css"
+import "./styles.css"
 
 const Form = ({
     listTransactions,
     setListTransactions,
-
 }) =>{
+    
     const [getValue, setGetValue] = useState("");
     const [description, setDescription] = useState("");
     const [getType, setGetType] = useState("Entrada");
