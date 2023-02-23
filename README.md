@@ -1,4 +1,4 @@
-Esta aplicação foi desenvolvida no inicio de meu aprendizado deste framework chamado React.js, pelo qual me apaixonei.
+Esta é a primeira aplicação que desenvolvi no inicio de meu aprendizado sobre este framework chamado React.js, pelo qual me apaixonei.
 
 Criei uma interface bancária que permite efetuar entradas e saídas de valores reais, simulando um sistema bancário simples.
 
