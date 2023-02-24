@@ -29,4 +29,4 @@ yarn start
 #### Ready! The application will then open in your browser
 
 
-Com muito apoio da minha querida Kenzie Academy Brasil <3 Onde 
+Com muito apoio da minha querida Kenzie Academy Brasil <3 Onde pude aprender a apreder.
